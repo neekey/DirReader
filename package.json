@@ -1,0 +1,10 @@
+{
+    "name": "DirReader",
+    "version": "0.0.1",
+    "description": "Recursive read the file directory.",
+    "keywords": ["directory", "recursive"],
+    "author": "neekey <ni184775761@gmail.com>",
+    "dependencies": {},
+    "devDependencies": {},
+    "main": "index"
+}
