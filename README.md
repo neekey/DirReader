@@ -6,7 +6,7 @@ Recursive read the file directory.
 ## Install
 
 ```
-npm install DirReader
+npm install dirreader
 ```
 
 ## Usage

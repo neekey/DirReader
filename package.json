@@ -1,10 +1,14 @@
 {
-    "name": "DirReader",
+    "name": "dirreader",
     "version": "0.0.1",
     "description": "Recursive read the file directory.",
     "keywords": ["directory", "recursive"],
     "author": "neekey <ni184775761@gmail.com>",
     "dependencies": {},
     "devDependencies": {},
-    "main": "index"
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:neekey/dirreader.git"
+    },
+    "main": "index.js"
 }
