@@ -11,7 +11,7 @@ npm install DirReader
 
 ## Usage
 
-```
+```js
 var DirReader = require( 'DirReader' );
 
 DirReader.readDir( 'path/to/read', function( err, path, stats, ifDir ){
@@ -50,7 +50,7 @@ Synchronize version of `readDir`. Note the `onFinish` parameter is just for maki
 
 (The MIT License)
 
-Copyright (c) 2012 TJ Holowaychuk &lt;tj@vision-media.ca&gt;
+Copyright (c) 2012 Neekey <ni184775761@gmail.com>;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
