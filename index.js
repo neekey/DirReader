@@ -1,1 +1,1 @@
-module.exports = require( 'lib/DirReader' );
+module.exports = require( './lib/DirReader' );
