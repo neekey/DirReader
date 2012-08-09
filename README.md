@@ -42,7 +42,7 @@ DirReader.readDir( 'path/to/read', function( err, path, stats, ifDir ){
 
 Synchronize version of `readDir`. Note the `onFinish` parameter is just for making an unified interface with `readDir`.
 
-## TOTO
+## TODO
 
 * Directory filter.
 
